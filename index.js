@@ -28,6 +28,7 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
   
+  return
   
   love = "I love you, Grandma.";
   love === true;
