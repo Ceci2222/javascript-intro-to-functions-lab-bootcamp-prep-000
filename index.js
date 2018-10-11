@@ -28,11 +28,8 @@ function sayHiToGrandma(string) {
     return "I love you, too."
   }
   
-  return
-  
-  love = "I love you, Grandma.";
-  love === true;
-  return 'I love you,too.';
+  return "Are you eating enough?"
+}
 /*
   var uppercase = "HELLO!";
   uppercase.toUpperCase() === uppercase;
