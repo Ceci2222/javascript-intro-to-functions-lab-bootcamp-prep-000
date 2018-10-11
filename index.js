@@ -29,7 +29,7 @@ function sayHiToGrandma(string) {
   }
   
   return "Are you eating enough?"
-}
+
 /*
   var uppercase = "HELLO!";
   uppercase.toUpperCase() === uppercase;
